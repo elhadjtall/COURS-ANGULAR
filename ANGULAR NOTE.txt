@@ -1,0 +1,12 @@
+Voici le note de cours d'angular cli
+Avant tout d'abord il faut installer le nodejs à travers le site de nodejs.
+Une fois installer le nodejs, on procède à l'installation de angular avec la commande :
+npm install -global @angular/cli@latest
+Une installer on verifier la version d'angular installer avec la commande :
+ng version
+
+Creer le projet d'angular:
+On creer un nouveau à travers la commande :
+ng new angular.ekart
+puis : Non
+Ensuite la partie CSS et taper entrer 
